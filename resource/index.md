@@ -5,8 +5,10 @@
 ## IPEX AOT 预编译包
 
 ::: tip
-- [IPEX 是什么?](/basic/ipex)
-- [AOT 是什么?](/basic/ipex#aot)
+<!-- - [IPEX 是什么?](/basic/ipex)
+- [AOT 是什么?](/basic/ipex#aot) -->
+- [IPEX 是什么?（TODO）]
+- [AOT 是什么?（TODO）]
 :::
 
 |IPEX版本|操作系统|Python版本|AOT支持设备|发布日期|
