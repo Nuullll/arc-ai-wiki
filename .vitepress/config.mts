@@ -14,6 +14,22 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '资源发布', link: '/resource/', activeMatch: '^/resource/' },
+      { text: '基础知识',
+        items: [
+          { text: 'IPEX', link: '/basic/ipex/' },
+        ]
+       },
+    ],
+    sidebar: [
+      {
+        text: '资源发布', link: '/resource/'
+      },
+      {
+        text: '基础知识',
+        items: [
+          { text: 'IPEX', link: '/basic/ipex/' }
+        ]
+      }
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Nuullll/arc-ai-wiki' }

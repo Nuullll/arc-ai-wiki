@@ -5,9 +5,7 @@
 ## IPEX AOT 预编译包
 
 ::: tip
-<!-- - [IPEX 是什么?](/basic/ipex)
-- [AOT 是什么?](/basic/ipex#aot) -->
-- [IPEX 是什么?（TODO）]
+- [IPEX 是什么?](/basic/ipex/)
 - [AOT 是什么?（TODO）]
 :::
 
