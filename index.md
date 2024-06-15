@@ -9,7 +9,12 @@ hero:
   actions:
     - theme: brand
       text: 资源发布
-      link: /resource/index
-
+      link: /resource
+    - theme: brand
+      text: 加入社群
+      link: /community
+    - theme: brand
+      text: 基础知识
+      link: /basic/ipex
 ---
 
